@@ -23,6 +23,7 @@ Project 2 - Visualization of Video Game Sales and Ratings
 - [Usage](#usage)
 - [Related Efforts](#related-efforts)
 - [Project Explaination](#Project-explaination)
+- [Conclusion](#Conclusion)
 
 ## Background
 
@@ -95,3 +96,11 @@ Cell 12: I then wanted to view sales from the three main generation 7 consoles: 
 Cell 13: After comparing global sales amongst the consoles, I wanted to look at some of the gaming "scores" and how those correlate with eachother and sales.  In Cell 13, we created a heat map after first converting any float values to numbers.  The heatmap shows us that critic and user scores correlate pretty well which should be expected.
 
 Cell 14 and 15: These cells are regression plots to see if scores also correlate to higher sales.  Although it can be hard to see, there is an uptick in sales as critic and user scores go up.
+
+## Conclusion
+
+It is clear that the playstation franchise thrived up until 2016 and based on past results is likely to continue doing so. Not only did they have the highest selling console recorded, but they had four of the top ten consoles on the list.
+When it came to the comparison of the ultra competitive 3rd generation consoles, the Xbox 360 had the highest amount of global sales compared to the PS3 and the Wii while the Wii had the highest grossing game of all time, "Wii Sports." It should be noted that Wii Sports came with the console although it is unclear if that is included in the data but it seems likely due to how many more sales "Wii Sports" was recorded with.
+When viewing critic and user scores I wanted to see if gamers actually bought games that were crtically acclaimed as well as if they bought scores that users agreed were good games. First, I just wanted to make sure critic and user scores correlated well and they did. Then, to not much surprise, the graphics also seem tos uggest that user and critic scores do indeed mean more sales. Whether this is causation or correlation was not researched in this project.
+
+<img src="YouWin.jpg" width="600"/> 
