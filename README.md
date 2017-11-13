@@ -23,7 +23,6 @@ Project 2 - Visualization of Video Game Sales and Ratings
 - [Usage](#usage)
 - [Related Efforts](#related-efforts)
 - [Project Explaination](#Project-explaination)
-- [License](#license)
 
 ## Background
 
@@ -96,6 +95,3 @@ Cell 12: I then wanted to view sales from the three main generation 7 consoles: 
 Cell 13: After comparing global sales amongst the consoles, I wanted to look at some of the gaming "scores" and how those correlate with eachother and sales.  In Cell 13, we created a heat map after first converting any float values to numbers.  The heatmap shows us that critic and user scores correlate pretty well which should be expected.
 
 Cell 14 and 15: These cells are regression plots to see if scores also correlate to higher sales.  Although it can be hard to see, there is an uptick in sales as critic and user scores go up.
-                                     
-## License
-none
